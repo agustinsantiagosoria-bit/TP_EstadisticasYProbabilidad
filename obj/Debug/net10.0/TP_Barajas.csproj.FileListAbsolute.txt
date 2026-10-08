@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\bin\Debug\net10.0\TP_Barajas.exe
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\bin\Debug\net10.0\TP_Barajas.deps.json
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\bin\Debug\net10.0\TP_Barajas.runtimeconfig.json
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\bin\Debug\net10.0\TP_Barajas.dll
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\bin\Debug\net10.0\TP_Barajas.pdb
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\obj\Debug\net10.0\TP_Barajas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\obj\Debug\net10.0\TP_Barajas.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\obj\Debug\net10.0\TP_Barajas.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\obj\Debug\net10.0\TP_Barajas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\obj\Debug\net10.0\TP_Barajas.dll
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\obj\Debug\net10.0\refint\TP_Barajas.dll
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\obj\Debug\net10.0\TP_Barajas.pdb
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\obj\Debug\net10.0\TP_Barajas.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\Desarrollo de Software\TP_Barajas\obj\Debug\net10.0\ref\TP_Barajas.dll

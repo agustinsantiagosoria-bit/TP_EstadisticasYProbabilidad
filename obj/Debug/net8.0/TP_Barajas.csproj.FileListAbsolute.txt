@@ -1,0 +1,14 @@
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\bin\Debug\net8.0\TP_Barajas.exe
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\bin\Debug\net8.0\TP_Barajas.deps.json
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\bin\Debug\net8.0\TP_Barajas.runtimeconfig.json
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\bin\Debug\net8.0\TP_Barajas.dll
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\bin\Debug\net8.0\TP_Barajas.pdb
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\obj\Debug\net8.0\TP_Barajas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\obj\Debug\net8.0\TP_Barajas.AssemblyInfoInputs.cache
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\obj\Debug\net8.0\TP_Barajas.AssemblyInfo.cs
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\obj\Debug\net8.0\TP_Barajas.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\obj\Debug\net8.0\TP_Barajas.dll
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\obj\Debug\net8.0\refint\TP_Barajas.dll
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\obj\Debug\net8.0\TP_Barajas.pdb
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\obj\Debug\net8.0\TP_Barajas.genruntimeconfig.cache
+C:\Users\agust\OneDrive\Escritorio\TP_Barajas\obj\Debug\net8.0\ref\TP_Barajas.dll
